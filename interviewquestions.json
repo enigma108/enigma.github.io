@@ -1,0 +1,58 @@
+{
+
+    "android": 
+
+		[
+
+			{
+
+				"question": "What is Android?",
+				"answer": "Android is an open-source, linux-based operating system that is used in mobiles, tablets, televisions etc"
+
+			},
+			{
+
+				"question": " Who is the founder of Android?",
+				"answer": "Andy Rubin."
+
+			},
+
+			{
+				"question": "What are the code names of android?",
+				"answer": "Aestro,Blender,Cupcake,Donut,Eclair,Froyo,Gingerbread,Honycomb,Ice Cream Sandwitch,Jelly Bean,Kitkat, Lollipop"
+			}
+		],
+		
+	"Titanium Appcelerator":
+	
+		[
+			{
+				"question": "Difference between heavyweight window and lightweight window?",
+				"answer": "Heavy weight window is associate with new android activity Lightweight window is a  full view which runs on current android activity"
+			},	
+			
+			{
+				"question": "What is Closure",
+				"answer": "Closure is an inner function has accesss to variables in outer function. it has three scope chain."
+			},
+			
+			{
+				"question": "Difference between TI.UI.SIZE and FILL",
+				"answer": "TI.UI.SIZE :  It will expand the height and width automaticaly Ti.ui,fill:  It will occupy height and width of the parent view"
+			}
+		],
+	
+	"Phonegap":
+	
+		[
+			{
+				"question": "Explain what PhoneGap is and why to use it?",
+				"answer": "PhoneGap is an open source framework, which enables you to develop applications for mobile devices by using web technologies like CSS3"
+			},
+			
+			{
+				"question": "Explain how do you architect PhoneGap applications?",
+				"answer": "PhoneGap applications can be architect, in the same way, like other mobile web services. The main difference is that the initial HTML assets are available locally, instead of a remote server"
+			}
+		]
+}
