@@ -1,5 +1,5 @@
 {
-	"topics": ["android", "titanium", "phonegap"],
+	"topics": [{"android"}, {"titanium"}, {"phonegap"}],
 	"interview-questions":{
 
 				"android": 
