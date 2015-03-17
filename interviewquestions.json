@@ -2,7 +2,7 @@
 	"topics": [{"topic":"Android"}, {"topic":"Titanium"}, {"topic":"Phonegap"}],
 	"interview-questions":{
 
-				"android": 
+				"Android": 
 
 			[
 
@@ -25,7 +25,7 @@
 			}
 
 			],
-			"Titanium-Appcelerator":
+			"Titanium":
 			[
 
 			{
