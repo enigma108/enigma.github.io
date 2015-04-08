@@ -21,7 +21,7 @@
 
 			{
 				"question": "What are the code names of android?",
-				"answer": "&bull Aestro,\nBlender, \nCupcake, \nDonut, \nEclair, \nFroyo, \nGingerbread, \nHonycomb, \nIce Cream Sandwitch, \nJelly Bean, \nKitkat, \nLollipop"
+				"answer": "Aestro,\nBlender, \nCupcake, \nDonut, \nEclair, \nFroyo, \nGingerbread, \nHonycomb, \nIce Cream Sandwitch, \nJelly Bean, \nKitkat, \nLollipop"
 			}
 
 			],
@@ -31,7 +31,7 @@
 			{
 
 				"question": "Difference between heavyweight window and lightweight window?",
-				"answer": "\u2019 Heavy weight window is associate with new android activity. \n \u2019 Lightweight window is a full view which runs on current android activity"
+				"answer": "\u2022 Heavy weight window is associate with new android activity. \n\u2022 Lightweight window is a full view which runs on current android activity"
 
 			},
 			{
