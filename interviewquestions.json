@@ -31,7 +31,7 @@
 			{
 
 				"question": "Difference between heavyweight window and lightweight window?",
-				"answer": "Heavy weight window is associate with new android activity Lightweight window is a full view which runs on current android activity"
+				"answer": "Heavy weight window is associate with new android activity. \n \u2022 Lightweight window is a full view which runs on current android activity"
 
 			},
 			{
