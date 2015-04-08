@@ -7,21 +7,64 @@
 			[
 
 			{
-
 				"question": "What is Android?",
-				"answer": "Android is an open-source, linux-based operating system that is used in mobiles, tablets, televisions etc"
+				"answer": "Android is an open-source, linux-based operating system that is used in mobiles, tablets, televisions, watches etc"
 
 			},
+			
 			{
-
-				"question": " Who is the founder of Android?",
-				"answer": "Andy Rubin."
-
+				"question": "What are the code names of Android?",
+				"answer": "\u2022Aestro,\n\u2022Blender, \n\u2022Cupcake, \n\u2022Donut, \n\u2022Eclair, \n\u2022Froyo, \n\u2022Gingerbread, \n\u2022Honycomb, \n\u2022Ice Cream Sandwitch, \n\u2022Jelly Bean, \n\u2022Kitkat, \n\u2022Lollipop"
 			},
-
+			
 			{
-				"question": "What are the code names of android?",
-				"answer": "Aestro,\nBlender, \nCupcake, \nDonut, \nEclair, \nFroyo, \nGingerbread, \nHonycomb, \nIce Cream Sandwitch, \nJelly Bean, \nKitkat, \nLollipop"
+				"question": "What is AVD?",
+				"answer": "AVD Stand for Android Virtual Device (emulator). The Android SDK includes a mobile device emulator - a virtual mobile device that runs on your computer."
+			},
+			
+			{
+				"question": "What is an Activity?"
+				"answer": "An Activity is a single, focused thing that the user can do. Whenever the user clicks on GUI the next Activity will be start and new GUI set base on coding."
+			},
+			
+			{
+				"question": "What is Intent?"
+				"answer": "An Intent is basically a message to say you did or want something to happen. Depending on the intent, apps or the OS might be listening for it and will react accordingly."
+			},
+			
+			{
+				"question": "Types of Intent?"
+				"answer": "\u2022 Implicit Intent\n\n\u2022 Explicit Intent"
+			},
+			
+			{
+				"question": "How to Start Another Activity?"
+				"answer": "Intent i = new Intent(getApplicationContext(), Activity2.class); \nstartActivity(i);"
+			},
+			
+			{
+				"question": "What are the Main Components of an Android application?"
+				"answer": "Activities -  They dictate the UI and handle the user interaction to the smartphone screen. \nServices -  They handle background processing associated with an application. \nBroadcast Receivers -  They handle communication between Android OS and applications. \nContent Providers  -  They handle data and database management issues."
+			},
+			
+			{
+				"question": "Inventors of android ?"
+				"answer": "Andy Rubin, Rich Miner, Nick Sears"
+			},
+			
+			{
+				"question": "What is an Explicit Intent?"
+				"answer": "Explicit intent specifies the particular activity that should respond to the intent. They are used for application internal messages."
+			},
+			
+			{
+				"question": "What is an Implicit Intent?"
+				"answer": "In case of Implicit Intent, an intent is just declared.  It is for the platform to find an activity that can respond to it."
+			},
+			
+			{
+				"question": "What do intent filters do?"
+				"answer": "There can be more than one intents, depending on the services and activities that are going to use them.  Each component needs to tell which intents they want to respond to. Intent filters filter out the intents that these components are willing to respond to."
 			}
 
 			],
@@ -64,4 +107,4 @@
 				]
 
 	}
-}
+}http://s17.motherlessmedia.com/dev350/0/507/346/0507346515.jpg
