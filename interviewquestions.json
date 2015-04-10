@@ -14,7 +14,7 @@
 			
 			{
 				"question": "What are the code names of Android?",
-				"answer": "\u2022Aestro,\n\u2022Blender, \n\u2022Cupcake, \n\u2022Donut, \n\u2022Eclair, \n\u2022Froyo, \n\u2022Gingerbread, \n\u2022Honycomb, \n\u2022Ice Cream Sandwitch, \n\u2022Jelly Bean, \n\u2022Kitkat, \n\u2022Lollipop"
+				"answer": "\u2022 Aestro,\n\n\u2022 Blender, \n\n\u2022 Cupcake, \n\n\u2022Donut, \n\n\u2022 Eclair, \n\n\u2022 Froyo, \n\n\u2022 Gingerbread, \n\n\u2022 Honycomb, \n\n\u2022 Ice Cream Sandwitch, \n\n\u2022 Jelly Bean, \n\n\u2022 Kitkat, \n\n\u2022 Lollipop"
 			},
 			
 			{
@@ -44,11 +44,11 @@
 			
 			{
 				"question": "What are the Main Components of an Android application?",
-				"answer": "Activities -  They dictate the UI and handle the user interaction to the smartphone screen. \nServices -  They handle background processing associated with an application. \nBroadcast Receivers -  They handle communication between Android OS and applications. \nContent Providers  -  They handle data and database management issues."
+				"answer": "Activities - They dictate the UI and handle the user interaction to the smartphone screen. \n\nServices - They handle background processing associated with an application. \n\nBroadcast Receivers - They handle communication between Android OS and applications. \n\nContent Providers - They handle data and database management issues."
 			},
 			
 			{
-				"question": "Inventors of android ?",
+				"question": "Inventors of android?",
 				"answer": "Andy Rubin, Rich Miner, Nick Sears"
 			},
 			
@@ -59,12 +59,12 @@
 			
 			{
 				"question": "What is an Implicit Intent?",
-				"answer": "In case of Implicit Intent, an intent is just declared.  It is for the platform to find an activity that can respond to it."
+				"answer": "In case of Implicit Intent, an intent is just declared. It is for the platform to find an activity that can respond to it."
 			},
 			
 			{
 				"question": "What do intent filters do?",
-				"answer": "There can be more than one intents, depending on the services and activities that are going to use them.  Each component needs to tell which intents they want to respond to. Intent filters filter out the intents that these components are willing to respond to."
+				"answer": "There can be more than one intents, depending on the services and activities that are going to use them. Each component needs to tell which intents they want to respond to. Intent filters filter out the intents that these components are willing to respond to."
 			}
 
 			],
@@ -80,13 +80,13 @@
 			{
 
 				"question": "What is Closure",
-				"answer": "Closure is an inner function has accesss to variables in outer function. it has three scope chain."
+				"answer": "Closure is an inner function has access to variables in outer function. it has three scope chain."
 
 			},
 
 				{
 					"question": "Difference between TI.UI.SIZE and FILL",
-					"answer": "TI.UI.SIZE : It will expand the height and width automaticaly Ti.ui,fill: It will occupy height and width of the parent view"
+					"answer": "TI.UI.SIZE : It will expand the height and width automatically Ti.ui,fill: It will occupy height and width of the parent view"
 				}
 
 			],
